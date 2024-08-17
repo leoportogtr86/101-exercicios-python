@@ -135,5 +135,4 @@ Uso de try/except com Arquivos**: Implemente a abertura de arquivos com tratamen
 101. **Geradores Customizados**: Implemente um gerador customizado que imita o comportamento da função `range()`.
 
 Esses exercícios devem proporcionar uma base sólida para o aprendizado e prática de Python, cobrindo uma ampla gama de
-tópicos fundamentais da linguagem.#   1 0 1 - e x e r c i c i o s - p y t h o n  
- 
+tópicos fundamentais da linguagem.
