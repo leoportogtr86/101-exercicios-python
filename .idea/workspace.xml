@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3c76efe-53de-4c02-85af-024417303ba8" name="Changes" comment="" />
+    <list default="true" id="c3c76efe-53de-4c02-85af-024417303ba8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Listas/lista2/ex8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Listas/lista2/ex7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Listas/lista2/ex7.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,6 +106,7 @@
       <workItem from="1725628086705" duration="33000" />
       <workItem from="1725628132031" duration="1986000" />
       <workItem from="1725643919781" duration="3050000" />
+      <workItem from="1725663213421" duration="324000" />
     </task>
     <servers />
   </component>
