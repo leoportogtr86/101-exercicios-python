@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3c76efe-53de-4c02-85af-024417303ba8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Listas/lista1/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Listas/lista1/ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Listas/lista1/ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Listas/lista1/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Listas/lista2/ex1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +105,7 @@
       <workItem from="1725627763678" duration="85000" />
       <workItem from="1725628086705" duration="33000" />
       <workItem from="1725628132031" duration="1986000" />
-      <workItem from="1725643919781" duration="1183000" />
+      <workItem from="1725643919781" duration="2143000" />
     </task>
     <servers />
   </component>
@@ -131,7 +128,7 @@
     <SUITE FILE_PATH="coverage/101_exercicios$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1725630828668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Listas/lista1" />
     <SUITE FILE_PATH="coverage/101_exercicios$ex9.coverage" NAME="ex9 Coverage Results" MODIFIED="1724175080711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Básico" />
     <SUITE FILE_PATH="coverage/101_exercicios$ex21.coverage" NAME="ex21 Coverage Results" MODIFIED="1724235340766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Listas" />
-    <SUITE FILE_PATH="coverage/101_exercicios$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1725630603468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Listas/lista1" />
+    <SUITE FILE_PATH="coverage/101_exercicios$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1725646240752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Listas/lista2" />
     <SUITE FILE_PATH="coverage/101_exercicios$ex24.coverage" NAME="ex24 Coverage Results" MODIFIED="1724236226586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Listas" />
     <SUITE FILE_PATH="coverage/101_exercicios$ex11.coverage" NAME="ex11 Coverage Results" MODIFIED="1724235179916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Básico" />
     <SUITE FILE_PATH="coverage/101_exercicios$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1725644972619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Listas/lista1" />
